@@ -1,0 +1,3 @@
+elastix -f nir1.JPG -m vis1.JPG -p parameters_Affine.txt -out elastix
+
+
